@@ -2,11 +2,8 @@
  You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order, and each of their nodes contains a single digit. Add the two numbers and return the sum as a linked list. You may assume the two numbers do not contain any leading zero, except the number 0 itself.
 
 #### Example 1:
-flowchart TB
-node6((2))  --> node6((4))  --> node6((3))
-node6((5))  --> node6((6))  --> node6((4))
-__________________________________________
-node6((7))  --> node6((0))  --> node6((8))
+[![](https://mermaid.ink/img/pako:eNpFj8sKwjAQRX8lzMpAC-KjSheCWnGjG92oZDM0qS02icQUkdJ_N9Qp7uacOwNzW8itVJCCMEVt33mJzrPDSZi1CT4ZjSacszhesQ3xjHhLPOVcmIxgHsI-3ZFIBrH_nwtzIVgM6ZXEeBA3EkvOIQKtnMZKhi9bYRgT4EullYA0jBLdQ4Tvu7CHjbfnj8kh9a5RETRPiV5lFd4dakgLrF_BKll5646_2n377guYOExe?type=png)](https://mermaid.live/edit#pako:eNpFj8sKwjAQRX8lzMpAC-KjSheCWnGjG92oZDM0qS02icQUkdJ_N9Qp7uacOwNzW8itVJCCMEVt33mJzrPDSZi1CT4ZjSacszhesQ3xjHhLPOVcmIxgHsI-3ZFIBrH_nwtzIVgM6ZXEeBA3EkvOIQKtnMZKhi9bYRgT4EullYA0jBLdQ4Tvu7CHjbfnj8kh9a5RETRPiV5lFd4dakgLrF_BKll5646_2n377guYOExe)
+
 ```sh
 Input: l1 = [2,4,3], l2 = [5,6,4]
 Output: [7,0,8]
